@@ -26,10 +26,12 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 <br/>
-## Deployed Site
 
+## Deployed Site
 
 <a href="https://sp21.github.io/WorldCovid19CasesTracker/">Click here</a>
 
+## Screenshots
 
-<img src="AngularCovidTracker.jpg"/>
+![Optional Text](./1.png)
+![Optional Text](./2.png)
